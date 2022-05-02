@@ -5,5 +5,3 @@ Simple notes app using Realm Database
 - List notes
 - Delete notes
 
-Watch full tutorial :
-https://youtu.be/or_pH92l-IQ
